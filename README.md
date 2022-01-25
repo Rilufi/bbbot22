@@ -7,7 +7,7 @@
 
 Meio sem tempo irmão pro readme, mas você vai precisar de:
 
-0 - um computador (que eu não posso te ajudar com isso) e python (que eu já te ajudei com isso, caso não tenha/não saiba cheque algum dos meus outros dois repositórios [facebot](github.com/rilufi/facebot) ou [bbbot](github.com/rilufi/bbbot) que eu explico tudo)
+0 - um computador (que eu não posso te ajudar com isso) e python (que eu já te ajudei com isso, caso não tenha/não saiba cheque algum dos meus outros dois repositórios [facebot](https://github.com/rilufi/facebot) ou [bbbot](https://github.com/rilufi/bbbot) que eu explico tudo)
 
 1 - imagem do nome do brother, do botão do captcha (que tem que clicar em "sou humano" rs) e do votar novamente
 
