@@ -1,4 +1,4 @@
-# bbbot21
+# bbbot22
 ## bot por reconhecimento de imagem simulando cliques humanos (aleatórios)
 
 ### inb4: sim, esse é o mesmo bot de 2021 porque a Globo não teve a pachorra de mudar o site de votação, só mudou a cor de dois botões
