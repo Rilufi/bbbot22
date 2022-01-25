@@ -16,9 +16,7 @@ de qualquer forma vou incluir as minhas e a foto do brother, que é pra quem o b
 
 2 - o bot funciona por reconhecimento de imagem, então precisamos do pyautogui e do PIL (que só usei pra otimizar a abertura de imagem, não é vitalmente necessário, caso não queira usar é só rancar de lá)
 
-$ pip install pyautogui
-
-$ pip install pillow
+$ pip install pyautogui pillow opencv-python
 
 3 - ... infelizmente manter o browser aberto, já que qualquer tentativa de automação em segundo plano -> falhei
 
@@ -28,7 +26,7 @@ Ok, a treta toda é que não tem como abrir o site da Globo por algum browser au
 usar reconhecimento de imagem pra achar onde clicar e apertar os botões como se fosse uma pessoa.
 
 ### A nova treta
-como apontado pelo Pedrinho (https://github.com/nasaphreak), a galera lá monitora onde e em quanto tempo você clica, então caso demore sempre o mesmo tanto de tempo e clica sempre no mesmo lugar, eles vão descobrir e chamar as imagens do hCaptcha só pra ~testar se tu não é um bot mesmo e ~pasmem~ nós somos (#SomosTodosBots)
+como apontado pelo [Pedrinho](https://github.com/nasaphreak), a galera lá monitora onde e em quanto tempo você clica, então caso demore sempre o mesmo tanto de tempo e clica sempre no mesmo lugar, eles vão descobrir e chamar as imagens do hCaptcha só pra ~testar se tu não é um bot mesmo e ~pasmem~ nós somos (#SomosTodosBots)
 
 ### A solução final
 meti um monte de aleatoriedade tanto em onde ele vai clicar (tomando cuidado pra não ser fora da área clicável) tanto em COMO ele vai clicar (namoral, eu até coloquei pra ele escolher aleatoriamente na lista de funções disponíveis, cada vez), então o jeito e a duração do clique muda.  Também inclui ele apertar um f5 pra atualizar a página sempre que der ruim (caso ele não encontre a imagem, começa de novo) e descobri que algumas vezes quando o hCaptcha é acionado, alguns refreshs podem confundir o captcha e ele não chama kkk
