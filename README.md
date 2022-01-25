@@ -1,13 +1,13 @@
 # bbbot22
 ## bot por reconhecimento de imagem simulando cliques humanos (aleatórios)
 
-### inb4: sim, esse é o mesmo bot de 2021 porque a Globo não teve a pachorra de mudar o site de votação, só mudou a cor de dois botões
+## inb4: sim, esse é o mesmo bot de 2021 porque a Globo não teve a pachorra de mudar o site de votação, só mudou a cor de dois botões
 
 ### tl;dr: abre o site da Globo, entra na sua conta, abre a página do paredão, deixa o brother visível e liga o bot que ele se vira
 
 Meio sem tempo irmão pro readme, mas você vai precisar de:
 
-0 - um computador (que eu não posso te ajudar com isso) e python (que eu já te ajudei com isso, caso não tenha/não saiba cheque algum dos meus outros dois repositórios facebot ou bbbot que eu explico tudo)
+0 - um computador (que eu não posso te ajudar com isso) e python (que eu já te ajudei com isso, caso não tenha/não saiba cheque algum dos meus outros dois repositórios [facebot](github.com/rilufi/facebot) ou [bbbot](github.com/rilufi/bbbot) que eu explico tudo)
 
 1 - imagem do nome do brother, do botão do captcha (que tem que clicar em "sou humano" rs) e do votar novamente
 
