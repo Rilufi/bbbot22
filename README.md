@@ -1,5 +1,7 @@
 # bbbot21
-## Teste de bot por reconhecimento de imagem simulando cliques humanos (aleatórios)
+## bot por reconhecimento de imagem simulando cliques humanos (aleatórios)
+
+### inb4: sim, esse é o mesmo bot de 2021 porque a Globo não teve a pachorra de mudar o site de votação, só mudou a cor de dois botões
 
 ### tl;dr: abre o site da Globo, entra na sua conta, abre a página do paredão, deixa o brother visível e liga o bot que ele se vira
 
